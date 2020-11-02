@@ -1,2 +1,2 @@
-web: gunicorn todo-drf
+web: django todo-drf
 
